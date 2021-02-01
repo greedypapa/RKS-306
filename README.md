@@ -6,6 +6,7 @@ Berikut adalah file digunakan pada aplikasi Talekom:
 
 A. Java :
 
+
 1. Daftar.java
 2. Login.java 
 3. Main Activity.java
@@ -16,6 +17,7 @@ A. Java :
 
 B. Layout :
 
+
 1. action_rincian.xml
 2. activity_daftar.xml
 3. activity_login.xml
@@ -25,6 +27,8 @@ B. Layout :
 7. activity_profile.xml
 
 C. Drawable :
+
+
 1. hp.png
 2. ic_launcher_background.xml
 3. ic_launcher_foreground.xml
@@ -35,9 +39,13 @@ C. Drawable :
 8. person.xml
 
 D. Value :
+
+
 1. colors.xml
 2. ids.xml
 3. strings.xml
 
 E. Manifest :
+
+
 AndroidManifest.xml
