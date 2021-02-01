@@ -47,3 +47,6 @@ E. Manifest :
 
 
     -AndroidManifest.xml
+    
+F. Video hasil Running Android Studio : 
+![talekom](https://user-images.githubusercontent.com/48081114/106414477-3fdcef00-647f-11eb-9d36-35fec656809e.gif)
