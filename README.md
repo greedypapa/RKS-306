@@ -1,7 +1,9 @@
 Tugas Kuliah
 
 Pada Aplikasi Online Shop yang saya buat dengan nama "Talekom" ini menggunakan Android Studio yang dimana untuk membuat Front End nya. Pada Front End yang saya bangun ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan :
+
   https://drive.google.com/drive/folders/1PfCMNJEGToA8pxLQN0GSMrRCAoYRsBPv
+  
 Berikut adalah file digunakan pada aplikasi Talekom:
 
 A. Java :
@@ -49,5 +51,6 @@ E. Manifest :
     -AndroidManifest.xml
     
 F. Video hasil Running Android Studio : 
+
 
 ![talekom](https://user-images.githubusercontent.com/48081114/106414477-3fdcef00-647f-11eb-9d36-35fec656809e.gif)
