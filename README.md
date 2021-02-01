@@ -1,6 +1,6 @@
 Tugas Kuliah
 
-Pada Aplikasi Online Shop yang saya buat dengan nama "Talekom" ini menggunakan Android Studio yang dimana untuk membuat Front End nya. Pada Front End yang saya bangun ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan :
+Pada Aplikasi pembelian kuota yang saya buat dengan nama "Talekom" ini menggunakan Android Studio yang dimana untuk membuat Front End nya. Pada Front End yang saya bangun ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan :
 
   https://drive.google.com/drive/folders/1PfCMNJEGToA8pxLQN0GSMrRCAoYRsBPv
   
